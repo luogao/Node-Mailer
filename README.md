@@ -31,7 +31,7 @@ $ npm install
        pass:'你设置的smtp授权码不是你的邮箱密码' 
    }
   }
-  mailOptions: = {
+  mailOptions = {
    form:'发件人',
    to:'收件人',// String or Array
    subject:'邮件主题',
@@ -42,8 +42,9 @@ $ npm install
   }
 ```
 ## 参考
-[Node.js使用Nodemailer发送邮件][1]
-[各种邮箱pop，SMTP设置][2]
+- [Node.js使用Nodemailer发送邮件][1]
+
+- [各种邮箱pop，SMTP设置][2]
 ## 最后
 只是一个简单的封装,只完成基础功能，就是能群发，能抄送。
 更多研究查看[nodemailer项目][0]
