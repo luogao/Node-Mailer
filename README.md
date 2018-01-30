@@ -6,9 +6,9 @@
 ## 使用
 
 - 克隆或下载项目之后运行
-```
-$ npm install
-```
+   ```
+   $ npm install
+   ```
  - 创建一个js文件，在其中引入index.js中导出的
     ```js
     const MailSender = require('./index.js')
