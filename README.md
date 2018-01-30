@@ -1,5 +1,5 @@
 # Node-Mailer
-> 根据 nodemailer 这个插件封装的node.js发送邮件方法
+> 根据 [nodemailer][0] 这个插件封装的node.js发送邮件方法
 
 **只是个练习**
 
@@ -41,3 +41,15 @@ $ npm install
    ....
   }
 ```
+## 参考
+[Node.js使用Nodemailer发送邮件][1]
+[各种邮箱pop，SMTP设置][2]
+## 最后
+只是一个简单的封装,只完成基础功能，就是能群发，能抄送。
+更多研究查看[nodemailer项目][0]
+
+
+
+[0]: 'https://github.com/nodemailer/nodemailer'
+[1]: 'https://segmentfault.com/a/1190000012251328'
+[2]: 'https://www.jianshu.com/p/1ae1329e1345'
