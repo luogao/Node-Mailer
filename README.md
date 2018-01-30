@@ -1,5 +1,5 @@
 # Node-Mailer
-> 根据 [nodemailer] [0] 这个插件封装的node.js发送邮件方法
+> 根据 [nodemailer][0] 这个插件封装的node.js发送邮件方法
 
 **只是个练习**
 
